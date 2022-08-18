@@ -12,3 +12,6 @@ mod bad_doubly_linked;
 
 // rust course 11.6
 mod unsafe_linked;
+
+// if you want to use LinkedList
+use std::collections::LinkedList;
